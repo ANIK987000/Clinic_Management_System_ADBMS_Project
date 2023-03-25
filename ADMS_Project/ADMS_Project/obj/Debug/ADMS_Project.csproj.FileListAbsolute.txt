@@ -1,0 +1,313 @@
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Form11.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.change.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AddDoctor.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AddRoom.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.DeleteDoctor.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AddPatient1.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.DeleteRoom.resources
+C:\Users\HP\Desktop\adms\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.UpdateRoom.resources
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+C:\Users\User\Downloads\hospital\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Registration And Login\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here\ADMS_Project\New folder\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AddAdminUI.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.DeleteAdminUI.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.UpdateAdminUI.resources
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here1\New folder\ADMS_Project\ADMS_Project\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe.config
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\ADMS_Project.pdb
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.dll
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Buffers.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Memory.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Numerics.Vectors.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Text.Json.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\bin\Debug\System.ValueTuple.xml
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.AssemblyReference.cache
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AddAdminUI.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminManagement.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.AdminUI.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Dashboard.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.DeleteAdminUI.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Login.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Properties.Resources.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.Registration.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.UpdateAdminUI.resources
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.GenerateResource.cache
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CoreCompileInputs.cache
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.csproj.CopyComplete
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.exe
+E:\Advance Database Management System\Full Project Here2\New folder\ADMS_Project\ADMS_Project\ADMS_Project\obj\Debug\ADMS_Project.pdb
